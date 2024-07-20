@@ -2,7 +2,7 @@ import networkx as nx
 import gravis as gv
 
 
-class PlotlyGraphPloter:
+class GraphPloter:
 	def __init__(self):
 		pass
 

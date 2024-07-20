@@ -1,0 +1,7 @@
+[tool.ruff]
+line-length = 100
+extend-include = ["*.ipynb","*.py"]
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "tab"
+docstring-code-format = true

@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+  <diagram name="Page-1" id="m-_U5MEGkAZ57_sx4kho">
+    <mxGraphModel dx="3056" dy="1311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JgkcGmqSujO60oCHjK9r-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="JgkcGmqSujO60oCHjK9r-6" target="JgkcGmqSujO60oCHjK9r-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="JgkcGmqSujO60oCHjK9r-6" target="JgkcGmqSujO60oCHjK9r-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.198;entryDx=0;entryDy=0;strokeWidth=4;entryPerimeter=0;" edge="1" parent="1" source="JgkcGmqSujO60oCHjK9r-6" target="JgkcGmqSujO60oCHjK9r-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="JgkcGmqSujO60oCHjK9r-6" target="JgkcGmqSujO60oCHjK9r-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;" edge="1" parent="1" source="JgkcGmqSujO60oCHjK9r-6" target="JgkcGmqSujO60oCHjK9r-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="JgkcGmqSujO60oCHjK9r-6" target="JgkcGmqSujO60oCHjK9r-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cards.scryfall.io/normal/front/a/a/aacdf4c2-9bc8-400a-8ffc-d6597d8d7da9.jpg?1591319489;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1120" width="373" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-7" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cards.scryfall.io/normal/front/4/4/44067327-6fe3-4222-b591-6d14d0e360d7.jpg?1673149453;" vertex="1" parent="1">
+          <mxGeometry x="180" y="570" width="373" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-8" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cards.scryfall.io/normal/front/f/5/f57bdaa1-ce8a-4103-8598-fee751e65a53.jpg?1674141383;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1680" width="373" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cards.scryfall.io/normal/front/8/f/8fc5e4a8-ea7b-4803-a7ed-3b915708661f.jpg?1619394801;" vertex="1" parent="1">
+          <mxGeometry x="570" y="720" width="373" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-10" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cards.scryfall.io/normal/front/6/7/67751745-61c9-488f-b5b3-310c0bafdda7.jpg?1706983318;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1530" width="373" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-11" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cards.scryfall.io/normal/front/9/a/9a53e001-04e7-4252-b693-d8f956ae574e.jpg?1698988547;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1410" width="373" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="JgkcGmqSujO60oCHjK9r-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cards.scryfall.io/normal/front/f/2/f26672a8-f4ff-4c64-bb3e-f5072bbc9e3e.jpg?1562804204;" vertex="1" parent="1">
+          <mxGeometry x="960" y="860" width="373" height="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

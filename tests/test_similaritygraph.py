@@ -21,7 +21,7 @@ class TestSimilarityGraph(TestCase):
 
 	def test_write_load_graph(self):
 		simi_graph = SimilarityGraph(show_display=False)
-		simi_graph.add_card('Dusk // Dawn', 2)
+		simi_graph.add_card('Dusk // Dawn', 3)
 		self.assertLessEqual(len(simi_graph), 36)
 		self.assertGreaterEqual(len(simi_graph), 7)
 		simi_graph.write_graph(path_resources_tests / 'test_write_graph.gml')

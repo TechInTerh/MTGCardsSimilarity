@@ -1,7 +1,7 @@
 import networkx as nx
 from IPython.core.display_functions import display
 
-from src.plotly_graph_plotler import GraphPloter
+from src.plotly_graph_plotler import GravisGraphPloter
 from IPython.display import HTML, DisplayHandle
 from src.myedhrec import MyEDHREc
 
@@ -13,7 +13,7 @@ class SimilarityGraph:
 		if graph is None:
 			graph = nx.DiGraph()
 		self.graph = graph
-		self.ploter = GraphPloter()
+		self.gravis_ploter = GravisGraphPloter()
 		self.edhrec_asker = MyEDHREc()
 		self.max_add = 6 ** 5
 		self.display_bar: DisplayHandle | None = display(self._progress(),
@@ -53,4 +53,4 @@ class SimilarityGraph:
 				self._rec_add_card(card["name"], depth_similar_cards - 1)
 
 	def plot_graph(self):
-		return self.ploter.plot_graph(self.graph)
+		return self.gravis_ploter.plot_graph(self.graph)
